@@ -1,0 +1,13 @@
+transformers
+accelerate
+torch
+pandas
+openpyxl
+datasets
+PyMuPDF
+kagglehub
+jupyter
+ipywidgets
+pillow
+tabulate
+llama-cloud-services
